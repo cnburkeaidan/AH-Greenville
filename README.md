@@ -6,4 +6,4 @@ Fully uploaded.
 Added: Particle Systems on plant growth, background to the money and player name text, controls added to pause screen, and seeds save between sessions.
 Playtesters discussion added, comment there. 
 
-Notice: This version is untested and volatile. Please install previous release (original windows release) instead.
+Version confirmed. Safe to use.

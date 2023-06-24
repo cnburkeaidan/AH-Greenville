@@ -7,3 +7,4 @@ Added: Particle Systems on plant growth, background to the money and player name
 Playtesters discussion added, comment there. 
 
 Version confirmed. Safe to use.
+Do not use versions pre-3.1
